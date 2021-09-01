@@ -6,27 +6,233 @@
   },
   "main": [
     {
-      "text": "SWAGGER",
+      "text": "===== Company =====",
       "type": "label"
     },
     {
-      "text": "UI",
+      "text": "- About us",
       "type": "link",
-      "path": "swagger/ui.html"
+      "path": "company/about-us.html"
     },
     {
-      "text": "To HTML",
+      "text": "- Handbook",
       "type": "link",
-      "path": "swagger/to-html.html"
+      "path": "company/handbook.html"
     },
     {
-      "text": "SUPPORT AND FEEDBACK",
+      "text": "- Cadence",
+      "type": "link",
+      "path": "company/cadence.html"
+    },
+    {
+      "text": "- OKRs",
+      "type": "link",
+      "path": "company/OKRs.html"
+    },
+    {
+      "text": "- Communications",
+      "type": "link",
+      "path": "company/communications.html"
+    },
+    {
+      "text": "- Business",
+      "type": "link",
+      "path": "company/business.html"
+    },
+    {
+      "text": "===== Team =====",
       "type": "label"
     },
     {
-      "text": "Raise an Issue on Github",
+      "text": "- Hiring",
       "type": "link",
-      "path": "https://github.bus.zalan.do/stargate/hexo-stargate-doc-theme-seed/issues/new"
-    }
+      "path": "team/hiring.html"
+    },
+    {
+      "text": "- Leadership",
+      "type": "link",
+      "path": "team/leadership.html"
+    },
+    {
+      "text": "- Learning & Development",
+      "type": "link",
+      "path": "team/learning-and-development.html"
+    },
+    {
+      "text": "- Offboarding",
+      "type": "link",
+      "path": "team/offboarding.html"
+    },
+    {
+      "text": "- Onboarding",
+      "type": "link",
+      "path": "team/onboarding.html"
+    },
+    {
+      "text": "- Team Relationships",
+      "type": "link",
+      "path": "team/team-member-relations-philosophy.html"
+    },
+    {
+      "text": "- Total Rewards",
+      "type": "link",
+      "path": "team/total-rewards.html"
+    },
+    {
+      "text": "- Tools and Tips",
+      "type": "link",
+      "path": "team/tools-and-tips.html"
+    },
+    {
+      "text": "===== Engineering =====",
+      "type": "label"
+    },
+    {
+      "text": "- Engineering",
+      "type": "link",
+      "path": "engineering/engineering.html"
+    },
+    {
+      "text": "- Customer Support",
+      "type": "link",
+      "path": "engineering/customer-support.html"
+    },
+    {
+      "text": "- Development",
+      "type": "link",
+      "path": "engineering/development.html"
+    },
+    {
+      "text": "- UI/UX",
+      "type": "link",
+      "path": "engineering/ui-ux.html"
+    },
+    {
+      "text": "- Quality Assurance",
+      "type": "link",
+      "path": "engineering/quality-assurance.html"
+    },
+    {
+      "text": "- Growth",
+      "type": "link",
+      "path": "engineering/growth.html"
+    },
+    {
+      "text": "- Operations",
+      "type": "link",
+      "path": "engineering/operations.html"
+    },
+    {
+      "text": "- Security",
+      "type": "link",
+      "path": "engineering/security.html"
+    },
+    {
+      "text": "- Infrastructure",
+      "type": "link",
+      "path": "engineering/infrastructure.html"
+    },
+    {
+      "text": "- Open Source",
+      "type": "link",
+      "path": "engineering/open-source.html"
+    },
+    {
+      "text": "===== Product =====",
+      "type": "label"
+    },
+    {
+      "text": "- Product",
+      "type": "link",
+      "path": "product/product.html"
+    },
+    {
+      "text": "- Release",
+      "type": "link",
+      "path": "product/release.html"
+    },
+    {
+      "text": "- Principles",
+      "type": "link",
+      "path": "product/principles.html"
+    },
+    {
+      "text": "- Processes",
+      "type": "link",
+      "path": "product/processes.html"
+    },
+    {
+      "text": "- Development Flow",
+      "type": "link",
+      "path": "product/development-flow.html"
+    },
+    {
+      "text": "- Development Timeline",
+      "type": "link",
+      "path": "product/development-timeline.html"
+    },
+    {
+      "text": "===== Marketing =====",
+      "type": "label"
+    },
+    {
+      "text": "- Website",
+      "type": "link",
+      "path": "marketing/website.html"
+    },
+    {
+      "text": "- Blog",
+      "type": "link",
+      "path": "marketing/blog.html"
+    },
+    {
+      "text": "- Social Media Policy",
+      "type": "link",
+      "path": "marketing/team-member-social-media-policy.html"
+    },
+    {
+      "text": "- Sales",
+      "type": "link",
+      "path": "marketing/sales.html"
+    },
+    {
+      "text": "- Marketing",
+      "type": "link",
+      "path": "marketing/marketing.html"
+    },
+    {
+      "text": "- Demos",
+      "type": "link",
+      "path": "marketing/demos.html"
+    },
+    {
+      "text": "===== Finance =====",
+      "type": "label"
+    },
+    {
+      "text": "- Finance",
+      "type": "link",
+      "path": "marketing/finance.html"
+    },
+    {
+      "text": "- Accounting",
+      "type": "link",
+      "path": "marketing/accounting.html"
+    },
+    {
+      "text": "- Business Operations",
+      "type": "link",
+      "path": "marketing/business-operations.html"
+    },
+    {
+      "text": "- Stock Options",
+      "type": "link",
+      "path": "marketing/stock-options.html"
+    },
+    {
+      "text": "- Legal",
+      "type": "link",
+      "path": "marketing/legal.html"
+    },
   ]
 }
